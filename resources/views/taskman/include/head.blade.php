@@ -13,10 +13,10 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Lato:400,300,700,900" rel="stylesheet">
 
 <!-- Vendor CSS Files -->
-<link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-<link href="{{ asset('vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
-<link href="{{ asset('vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
-<link href="{{ asset('vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+<link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+<link href="{{ asset('css/bootstrap-icons.css') }}" rel="stylesheet">
+<link href="{{ asset('css/glightbox.min.css') }}" rel="stylesheet">
+<link href="{{ asset('css/swiper-bundle.min.css') }}" rel="stylesheet">
 
 <!-- Template Main CSS File -->
 <link href="{{ asset('css/style.css') }}" rel="stylesheet">
